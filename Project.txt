@@ -1,3 +1,3 @@
 Project file
-Language runtime : Java
-Runtime version: 17
+Language runtime : Python
+Runtime version: 3.12
